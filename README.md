@@ -1,2 +1,2 @@
 # advent-of-code
-Advent of Code Challneges
+Advent of Code Challenges
